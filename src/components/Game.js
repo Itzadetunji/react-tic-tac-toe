@@ -7,4 +7,6 @@ const Game = () => {
   const [stepNumber, setStepNumber] = useState(0);
   const [xIsNext, setXisNext] = useState(true);
   const winner =
-}
+};
+
+export default Game;
